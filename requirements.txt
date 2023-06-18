@@ -79,8 +79,6 @@ tensorboard==2.13.0
 tensorboard-data-server==0.7.1
 thop==0.1.1.post2209072238
 tifffile==2023.4.12
-linux_aarch64.whl#sha256=87c3b1fade566123ddb4e1aa3e7a4ad49a5f05c8324556b0d8b40896731bf4ae
-linux_aarch64.whl#sha256=71fb38cc7c39e825119f23cd896877b883c5e9fb4a77ca3fabfb35912dd41c60
 tqdm==4.65.0
 traitlets==5.9.0
 typing_extensions==4.5.0
