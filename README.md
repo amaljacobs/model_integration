@@ -8,6 +8,6 @@ Integration and Deployment of multiple traffic incident detection models at edge
 2. Activate the virtual environment
 3. Install the packages in requirements.txt
 4. Uninstall torch and torchvision
-5. Install torch and torchvision for jetpack4.6.1 (given in textfile [torch_torchvision_version_jetpack4.6.1]([url](https://github.com/amaljacobs/model_integration/blob/master/torch_torchvision_version_jetpack4.6.1)))
+5. Install torch and torchvision for jetpack4.6.1 (given in textfile [torch_torchvision_version_jetpack4.6.1](https://github.com/amaljacobs/model_integration/blob/master/torch_torchvision_version_jetpack4.6.1))
 6. Create a folder Videos and place videos within it or input can be directly fed from camera
 7. Run gui3.py
